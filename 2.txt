@@ -1,0 +1,3 @@
+Player's name = 2 2
+Player's ID = 2
+Player's score = 73

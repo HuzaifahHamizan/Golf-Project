@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1638733224 source:c:\users\huzai\onedrive - technological university dublin\documents\codeblock year 2\group project\testing\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<locale>
+	"Player.h"
+	<algorithm>
+	<cstdlib>
+
+1638781802 c:\users\huzai\onedrive - technological university dublin\documents\codeblock year 2\group project\testing\include\player.h
+	<string>
+
+1638736993 source:c:\users\huzai\onedrive - technological university dublin\documents\codeblock year 2\group project\testing\src\player.cpp
+	"Player.h"
+	<iostream>
+	<iomanip>
+	<string>
+	<locale>
+	<cstdlib>
+	<algorithm>
+
+1638735748 source:c:\users\huzai\onedrive - technological university dublin\documents\codeblock year 2\group project\testing\src\manager.cpp
+	"Manager.h"
+
+1638737028 c:\users\huzai\onedrive - technological university dublin\documents\codeblock year 2\group project\testing\include\manager.h
+	"Player.h"
+
+1638798206 source:c:\users\james\desktop\programming projects\testingzip\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<locale>
+	"Player.h"
+	"Manager.h"
+	<algorithm>
+	<cstdlib>
+
+1638795632 c:\users\james\desktop\programming projects\testingzip\include\player.h
+	<string>
+
+1638794035 c:\users\james\desktop\programming projects\testingzip\include\manager.h
+	"Player.h"
+
+1638794037 source:c:\users\james\desktop\programming projects\testingzip\src\manager.cpp
+	"Manager.h"
+
+1638795942 source:c:\users\james\desktop\programming projects\testingzip\src\player.cpp
+	"Player.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<locale>
+	<cstdlib>
+	<algorithm>
+
+1638818209 source:c:\users\huzai\onedrive - technological university dublin\documents\codeblock year 2\group project\testingzip\src\manager.cpp
+	"Manager.h"
+
+1638818209 c:\users\huzai\onedrive - technological university dublin\documents\codeblock year 2\group project\testingzip\include\manager.h
+	"Player.h"
+
+1638897255 c:\users\huzai\onedrive - technological university dublin\documents\codeblock year 2\group project\testingzip\include\player.h
+	<string>
+
+1638900689 source:c:\users\huzai\onedrive - technological university dublin\documents\codeblock year 2\group project\testingzip\src\player.cpp
+	"Player.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<locale>
+	<cstdlib>
+	<algorithm>
+
+1638899077 source:c:\users\huzai\onedrive - technological university dublin\documents\codeblock year 2\group project\testingzip\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<locale>
+	"Player.h"
+	"Manager.h"
+	<algorithm>
+	<cstdlib>
+	<stdio.h>
+
