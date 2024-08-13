@@ -38,3 +38,6 @@ Run the compiled program:
 ```
 
 Follow the on-screen instructions to play.
+
+## Contributing
+Contributions are welcome! Please fork this repository, create a new branch, and submit a pull request.
